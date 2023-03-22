@@ -1,8 +1,18 @@
 <h2>Operators</h2>
 
-<h3>Types of operators</h3>
+<span id="top"><h3>Types of operators</h3></span>
 <ol>
-    <li>Arithmetic operators</li>
+ <li><a href="#Arithmetic">Arithmetic operators</a></li>
+ <li><a href="#Comparison">Comparison operators</a></li>
+ <li><a href="#Logical">Logical operators</a></li>
+ <li><a href="#Assignment">Assignment operators</a></li>
+ <li><a href="#Conditional">Conditional operators</a></li>
+  <li><a href="#Bitwise">Bitwise operators</a></li>
+ <li><a href="#Equality">Equality Comparisons</a></li>
+
+</ol>
+<ol>
+    <span id="Arithmetic"><li>Arithmetic operators</li></span>
     <br>
     <ul>
         <li>+ (addition)</li>
@@ -28,7 +38,8 @@
         console.log(x -- y);
     </pre>
     <br>
-    <li>Comparison  operators</li>
+    <p align='right'><a href="#top">&#8593; Back to Top</a></p>
+    <span id="Comparison"><li>Comparison  operators</li></span>
     <br>
     <ul>
         <li>== (equality)
@@ -55,7 +66,8 @@
         console.log(x >= y);
     </pre>
     <br>
-    <li>Logical operators</li>
+    <p align='right'><a href="#top">&#8593; Back to Top</a></p>
+    <span id="Logical"><li>Logical  operators</li></span>
     <br>
     <ul>
         <li>&& (logical AND)</li>
@@ -72,7 +84,8 @@
         console.log(!(x > 5)); 
     </pre>
     <br>
-    <li>Assignment operators</li>
+    <p align='right'><a href="#top">&#8593; Back to Top</a></p>
+    <span id="Assignment"><li>Assignment  operators</li></span>
     <br>
     <ul>
         <li>= (assignment)</li>
@@ -100,7 +113,8 @@
         console.log(x); 
     </pre>
     <br>
-    <li>Conditional (Ternary) operators</li>
+    <p align='right'><a href="#top">&#8593; Back to Top</a></p>
+    <span id="Conditional"><li>Conditional  operators</li></span>
     <br>
     <ul>
         <li>? : (conditional operator)</li>
@@ -111,7 +125,8 @@
         const status = age >= 18 ? "adult" : "minor";
     </pre>
     <br>
-    <li>Bitwise operators</li>
+    <p align='right'><a href="#top">&#8593; Back to Top</a></p>
+    <span id="Bitwise"><li>Bitwise  operators</li></span>
     <br>
     <ul>
         <li>& (bitwise AND)</li>
@@ -126,8 +141,8 @@
 </ol>
 
 <br />
-
-<h3>Equality Comparisons</h3>
+<p align='right'><a href="#top">&#8593; Back to Top</a></p>
+<span id="Equality"><h3>Equality Comparisons</h3></span>
 In JavaScript, there are two types of equality comparisons<br>
 <ul>
     <li>strict equality</li>
@@ -150,4 +165,5 @@ In JavaScript, there are two types of equality comparisons<br>
     1 == "1" // true
     </pre>
 </ul>
-
+<br>
+    <p align='right'><a href="#top">&#8593; Back to Top</a></p>
