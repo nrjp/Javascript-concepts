@@ -69,7 +69,7 @@ function myFunction() {
 }
 myFunction();
 ```
-<h4>closure</h4>
+<h3>closure</h3>
 a closure is a feature that allows a function to access variables from an outer function that has already returned. This means that even after the outer function has finished executing and its variables are no longer in memory, the inner function can still access and use those variables
 
 ```
@@ -86,8 +86,22 @@ function outerFunction() {
 let greeting = outerFunction();
 greeting(); // Output: Hello John
 ```
+<h3>Anonymous function</h3>
+An anonymous function is a function without a function name. Only function expressions can be anonymous, function declarations must have a name
 
-<h4>Arrow functions</h4>
+```
+// Anonymous function created as a function expression
+(function () {});
+
+// Anonymous function created as an arrow function
+() => {};
+
+
+setTimeout(function() {
+    console.log('Execute later after 1 second')
+}, 1000);
+```
+<h3>Arrow functions</h3>
 An arrow function expression is a compact alternative to a traditional function expression, with some semantic differences and deliberate limitations in usage
 
 ```
@@ -100,7 +114,7 @@ An arrow function expression is a compact alternative to a traditional function 
 const multiply = (a, b) => a * b;
 
 ```
-<h4>Recursion</h4>
+<h3>Recursion</h3>
 The act of a function calling itself, recursion is used to solve problems that contain smaller sub-problems. A recursive function can receive two inputs: a base case (ends recursion) or a recursive case (resumes recursion)
 
 
@@ -115,7 +129,7 @@ const factorial = (n) => {
 console.log(factorial(10));
 // 3628800
 ```
-<h4>IIFE</h4>
+<h3>IIFE</h3>
 
 - An IIFE (Immediately Invoked Function Expression) is a JavaScript function that runs as soon as it is defined. 
 
