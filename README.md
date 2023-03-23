@@ -16,14 +16,14 @@
     <!-- <li>Scopes</li> -->
     <li>window object</li>
     <li>This</li>
-    <li>Array: methods</li>
-    <li>Callback</li>
+    <!-- <li>Array: methods</li> -->
+    <!-- <li>Callback</li> -->
     <!-- <li>Arrow functions</li> -->
-    <li>Fill</li>
+    <!-- <li>Fill</li>
     <li>Fliter</li>
     <li>Slice: start is include, end is excluded</li>
-    <li>Splice</li>
-    <li>objects</li>
+    <li>Splice</li> -->
+    <!-- <li>objects</li> -->
     <!-- <li>For</li>
     <li>while</li>
     <li>do while</li>
@@ -44,7 +44,7 @@
     <li>Text Node</li>
     <!-- <li>Scope</li> -->
     <li>Template literals </li>
-    <li>maps</li>
+    <!-- <li>maps</li> -->
     <li>Spread and REST operators</li>
     <li>Classes</li>
     <li>module exports</li>
