@@ -24,9 +24,9 @@ The general rules for constructing names for variables
     <li>Variable names should be descriptive and give an idea about the data they hold</li>
     <li>Use camelCase convention for variable names</li>
      This means the first word is in lowercase and subsequent words are in uppercase<br>
-        - Example: firstName, totalAmount, isCompleted
+         Example: firstName, totalAmount, isCompleted
     <li>Variable names are case sensitive</li>
-     - Example: myVariable and myvariable would be considered as two different variables 
+       Example: myVariable and myvariable would be considered as two different variables 
     <li>Avoid using abbreviations or single letters for variable names, except for common abbreviations like i for index in loops or x for coordinates.</li>
 </ol>
 <br />

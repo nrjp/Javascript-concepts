@@ -1,7 +1,28 @@
- # javascript
+<h1> Javascript </h1>
 
-### javascript Topics
-<ul>
+<h2> Javascript Topics </h2>
+
+
+- [Variables](js/Variables.md)
+- [Operators](js/Operators.md)
+- [Conditions](js/Conditions.md)
+- [Operators](js/Operators.md)
+- [Data Types](js/DataTypes.md)
+- [Collections](js/collections.md)
+- [Falsy values](js/Falsy.md)
+- [Array](js/Array.md)
+- [Fuctions](js/function.md)
+- [Advance Concept](js/Advance_concept.md)
+- [Dom](js/DOM.md)
+
+
+
+<h2>Acknowledgments</h2>
+
+- [Roadmap.sh](https://roadmap.sh/javascript)
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [freecodecamp](https://www.freecodecamp.org/)
+
     <!-- <li>Variables</li>
     <li>Data Types</li>
     <li>Operators</li>
@@ -29,13 +50,13 @@
     <li>foreach</li>
     <li>forof</li>
     <li>forin</li> -->
-    <li>DOM</li>
-    <li>DOM Methods</li>
-    <li>window methods</li>
-    <li>Event listener</li>
+    <!-- <li>DOM</li>
+    <li>DOM Methods</li> -->
+    <!-- <li>window methods</li> -->
+    <!-- <li>Event listener</li> -->
     <!-- <li>new keyword</li> -->
-    <li>proto</li>
-    <li>window object</li>
+    <!-- <li>proto</li> -->
+    <!-- <li>window object</li> -->
     <!-- <li>Anonymous Function</li> -->
     <!-- <li>Lexical scoping</li> -->
     <!-- <li>Closure</li> -->
@@ -45,17 +66,11 @@
     <!-- <li>Scope</li> -->
     <!-- <li>Template literals </li> -->
     <!-- <li>maps</li> -->
-    <li>Spread and REST operators</li>
+    <!-- <li>Spread and REST operators</li> -->
     <!-- <li>Classes</li> -->
-    <li>module exports</li>
+    <!-- <li>module exports</li> -->
     <!-- <li>getters and setters</li> -->
-    <li>Inheritance</li>
-    <li>Event loop </li>
-    <li>async and await</li>
-    <li>promis</li>
-</ul>
-
-
-https://roadmap.sh/javascript
-https://www.freecodecamp.org/
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+    <!-- <li>Inheritance</li> -->
+    <!-- <li>Event loop </li> -->
+    <!-- <li>async and await</li> -->
+    <!-- <li>promis</li> -->
