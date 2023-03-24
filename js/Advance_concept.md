@@ -1,7 +1,4 @@
 
- <a href="#README.md">at()</a> 
-
-<p align='right'><a href="#top">&#8593; Back to Top</a></p>
 <span id="Classes"></span>
 <h3>Classes</h3>
 
@@ -87,12 +84,12 @@ fetchUser(1)
 ```
 
 <p align='right'><a href="#top">&#8593; Back to Top</a></p>
-<span id="Event loop"></span>
+<!-- <span id="Event loop"></span>
 <h3>Event loop</h3>
 
 ```
 
-```
+``` -->
 
 <p align='right'><a href="#top">&#8593; Back to Top</a></p>
 <span id="module exports"></span>
