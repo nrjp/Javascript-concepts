@@ -1,4 +1,5 @@
 <h2>Operators</h2>
+<p align='right'><a href="https://github.com/nrjp/javascript">Index</a></p>
 
 <span id="top"><h3>Types of operators</h3></span>
 <ol>
