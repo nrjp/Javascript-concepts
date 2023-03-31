@@ -1,4 +1,5 @@
 <h2>Function</h2>
+<p align='right'><a href="https://github.com/nrjp/javascript">Index</a></p>
 
 <ul>
 <li><a href="#Functions">Functions</a></li>

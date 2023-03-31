@@ -1,4 +1,5 @@
 <h2>Array</h2>
+<p align='right'><a href="https://github.com/nrjp/javascript">Index</a></p>
 
  <p><b>Array</b> is a data structure used to store multiple values in a single variable. Arrays are declared using square brackets ([]), with each value separated by a comma</p>
 

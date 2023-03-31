@@ -1,5 +1,7 @@
 <h2>Keyed Collections</h2>
 <br>
+<p align='right'><a href="https://github.com/nrjp/javascript">Index</a></p>
+
 <span id="top"><h3>Keyed collections are data collections that are ordered by key not index</h3></span>
 <ol>
     <li><a href="#object">object</a></li>

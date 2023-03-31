@@ -1,4 +1,5 @@
 <h2>Variables</h2>
+<p align='right'><a href="https://github.com/nrjp/javascript">Index</a></p>
 
 Variables in Javascript
 

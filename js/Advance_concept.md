@@ -1,6 +1,7 @@
 
 <span id="Classes"></span>
 <h3>Classes</h3>
+<p align='right'><a href="https://github.com/nrjp/javascript">Index</a></p>
 
 `Classes` are a way to create reusable objects with properties and methods. They are a type of syntactical sugar that provides a more structured way to define object-oriented programming in JavaScript.
 

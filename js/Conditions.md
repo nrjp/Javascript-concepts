@@ -1,4 +1,5 @@
 <h2>Conditions and Loops</h2>
+<p align='right'><a href="https://github.com/nrjp/javascript">Index</a></p>
 
 <p> conditions are used to perform different actions based on different conditions </p>
 

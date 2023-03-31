@@ -1,4 +1,5 @@
 <h2>Document Object Model (DOM)</h2>
+<p align='right'><a href="https://github.com/nrjp/javascript">Index</a></p>
 
 The `Document Object Model (DOM)` is the data representation of the objects that comprise the structure and content of a document on the web
 

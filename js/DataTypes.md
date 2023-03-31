@@ -1,4 +1,5 @@
 <h2>Data Types </h2>
+<p align='right'><a href="https://github.com/nrjp/javascript">Index</a></p>
 
 - JavaScript is a dynamically typed language, meaning that you do not need to specify a data type when declaring a variable.
 - The data type is automatically determined based on the value assigned to the variable. 
